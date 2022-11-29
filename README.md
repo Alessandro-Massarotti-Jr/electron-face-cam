@@ -8,13 +8,19 @@
 
 Projeto desenvolvido para se aventurar no ambiente do electron
 
+<img src="./electron-facecam.png" alt="Banner">
+
 ## config
 
  - run `npm install` to install project dependencies
  - run `npm run dev` to start a developement project
  - run `npm run build` to make a executable version of the project
 
+## Links uteis
 
+ - [Electron](https://www.electronjs.org/docs/latest/)
+ - [Electron-Packager](https://www.npmjs.com/package/electron-packager)
+ - [Js media devices](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 
 
 <br>
